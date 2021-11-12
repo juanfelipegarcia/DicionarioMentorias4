@@ -1,0 +1,9 @@
+agua wather
+casa house
+perro dog
+gato cat
+mesa table
+carro car
+avion airplane
+vaca cow
+libro book
